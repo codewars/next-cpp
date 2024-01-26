@@ -1,0 +1,1 @@
+int crashOrNot(int n);

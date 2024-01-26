@@ -1,0 +1,1 @@
+bool evenOrOdd(int n);

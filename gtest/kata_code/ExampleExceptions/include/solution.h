@@ -1,0 +1,1 @@
+int throwOrNot(int n);

@@ -1,0 +1,1 @@
+docker build --tag cw-catch2-cpp .
